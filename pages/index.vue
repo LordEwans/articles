@@ -12,7 +12,7 @@
               <nuxt-link to="/programming">Programming</nuxt-link>
             </h1>
             <p>
-              <nuxt-link to="/how-i-became-a-better-programmer" class="articles"
+              <nuxt-link to="articles/how-i-became-a-better-programmer" class="articles"
                 >How I Became a Better Programmer.</nuxt-link
               >
             </p>
