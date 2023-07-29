@@ -74,6 +74,9 @@ export default {};
 .articles {
   @apply text-lg md:text-xl mb-2 font-semibold text-gray-400 uppercase;
 }
+h1 {
+  @apply font-bold uppercase text-3xl md:text-4xl;
+}
 .lobby {
   @apply text-2xl md:text-3xl mb-2 mt-5 font-semibold text-gray-300 uppercase;
 }
